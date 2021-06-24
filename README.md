@@ -1,5 +1,5 @@
 # leaked-qbot-acid6
-free leaked qbot source acidv6 with custom methods from idk who 
+free leaked qbot source acid6 with custom methods from idk who 
 
 
 random shit for skidis to find this 
